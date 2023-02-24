@@ -9,11 +9,11 @@
 # Step 2
   - Run :
     -  linx Os and android(termux)
-      - > `apt-get install python3` and for termux `apt install python3`
-      - > `cd Self_Nothing`
-      - > `cd Self`
-      - > `python3 SeLf_NoThInG.py`
-      - > enjoy it
+        - > `apt-get install python3` and for termux `apt install python3`
+        - > `cd Self_Nothing`
+        - > `cd Self`
+        - > `python3 SeLf_NoThInG.py`
+        - > enjoy it
     - Windows Os
       - > install python3
       - > download zip file and extrac it
